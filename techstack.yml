@@ -1,0 +1,29 @@
+repo_name: AlexcastroDev/deno-with-fresh
+report_id: 52120f5af576719794e12998a7f3e592
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-02T14:18:25+00:00'
+requested_by: AlexcastroDev
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
